@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
-  font-size: 0.6rem;
+  font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 0.96rem;
+  font-size: 1.44rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -635,13 +635,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Roboto', sans-serif;
-  font-size: 0.6rem;
+  font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 0.96rem;
+  font-size: 1.44rem;
 }
 .form-control,
 .form-control:focus {
@@ -803,6 +803,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #333333;
+  background: none;
 }
 .cid-qWyTgsRGG9 .navbar.opened {
   transition: all .3s;
@@ -1076,28 +1077,12 @@ body {
   .cid-qWyTgsRGG9 .nav-link:hover::before {
     width: calc(100% + 2rem);
   }
-  .cid-qWyTgsRGG9 .dropdown-menu {
-    top: 100%;
-  }
-  .cid-qWyTgsRGG9 .dropdown-item {
-    border-bottom: 1px solid #b3b3b3;
-    box-shadow: 0px 2px 5px #ffffff;
-    background: #ffffff !important;
-  }
-  .cid-qWyTgsRGG9 .dropdown-item:hover {
-    background: #e6e6e6 !important;
-  }
-  .cid-qWyTgsRGG9 .nav-item.open .nav-link::before {
-    left: calc(1.667em - 1rem);
-    bottom: 0.538px;
-    width: calc(100% - 3.334em + 2rem);
-  }
   .cid-qWyTgsRGG9 .navbar-short .dropdown-menu {
     top: 100%;
   }
 }
 .cid-qWyTab1TUh {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/il-mago-di-oz-chieri-16-2000x1333.jpg");
   z-index: 1;
 }
 .cid-qWyTab1TUh .mbr-arrow {
